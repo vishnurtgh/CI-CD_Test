@@ -2,7 +2,7 @@
   "processNames":"CI-CD_Test",
   "componentType":"process",
   "packageVersion": 21.20,
-  "notes":"this is a test",
+  "notes":"this is test",
   "TestProcessName":"CI-CD_Test",
   "InitialEnvironment":"Adil",
   "atomName":"Adil",
