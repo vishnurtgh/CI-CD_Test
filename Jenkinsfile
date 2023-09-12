@@ -36,8 +36,8 @@ pipeline {
                     ''',
                         mimeType: 'text/html',
                         subject: "[Jenkins]  Build Approval Request",
-                        from: "vishnu.r@techygeekhub.com",
-                        to: "vishnu.rammohankb@gmail.com",
+                        from: "vishnu.rammohankb@gmail.com",
+                        to: "vishnu.r@techygeekhub.com",
                         recipientProviders: [[$class: 'CulpritsRecipientProvider']]
 
                     timeout(time: 7, unit: 'DAYS') {
