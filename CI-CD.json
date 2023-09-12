@@ -1,0 +1,10 @@
+{
+  "processNames": "CI-CD_Test",
+  "componentType":"process" ,
+  "packageVersion": 21.20,
+  "notes":"this is test" ,
+  "TestProcessName":"CI-CD_Test" ,
+  "InitialEnvironment":"dev env",
+  "atomName": "dev atom" ,
+  "PromotionEnvironment":"Z-Anshul_prod" 
+}
