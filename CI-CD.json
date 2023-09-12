@@ -1,9 +1,9 @@
 {
-  "processNames": "CI-CD_Test",
+  "processNames": "CICDTEST",
   "componentType":"process" ,
-  "packageVersion": 23.20,
+  "packageVersion": 1.0,
   "notes":"this is test" ,
-  "TestProcessName":"CI-CD_Test" ,
+  "TestProcessName":"CICDTEST" ,
   "InitialEnvironment":"Adil",
   "atomName":"Adil",
   "PromotionEnvironment":"Z-Anshul_prod" 
