@@ -1,0 +1,10 @@
+{
+  "processNames": "CICDTEST",
+  "componentType":"process" ,
+  "packageVersion": 3.0,
+  "notes":"this is test" ,
+  "TestProcessName":"CICDTEST" ,
+  "InitialEnvironment":"Vishnu-Env",
+  "atomName":"Vishnu-LocalAtom",
+  "PromotionEnvironment":"Ashu-Prod" 
+}
