@@ -4,7 +4,7 @@
   "packageVersion": 1.0,
   "notes":"this is test" ,
   "TestProcessName":"CICDTEST" ,
-  "InitialEnvironment":"Adil",
-  "atomName":"Adil",
-  "PromotionEnvironment":"Z-Anshul_prod" 
+  "InitialEnvironment":"Vishnu-Env",
+  "atomName":"Vishnu-LocalAtom",
+  "PromotionEnvironment":"Ashu-Prod" 
 }
