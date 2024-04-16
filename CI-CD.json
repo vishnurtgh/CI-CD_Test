@@ -2,7 +2,7 @@
   "processNames": "CICDTEST",
   "componentType":"process" ,
   "packageVersion": 7.0,
-  "notes":"This is test" ,
+  "notes":"This is a test" ,
   "TestProcessName":"CICDTEST" ,
   "InitialEnvironment":"Vishnu-Env",
   "atomName":"Vishnu-LocalAtom",
