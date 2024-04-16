@@ -1,7 +1,7 @@
 {
   "processNames": "CICDTEST",
   "componentType":"process" ,
-  "packageVersion": 1.1,
+  "packageVersion": 2.0,
   "notes":"this is test" ,
   "TestProcessName":"CICDTEST" ,
   "InitialEnvironment":"Vishnu-Env",
