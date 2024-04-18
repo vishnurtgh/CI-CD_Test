@@ -1,9 +1,9 @@
 {
-  "componentIds":"394f4e88-cddf-4cd2-a386-f1c5049d6e57",
+  "componentIds":"c20bf255-14e4-41d3-9671-01f80f4e5c57",
   "componentType":"process" ,
   "packageVersion": 1.0,
-  "notes":"This is my first test" ,
-  "TestProcessId":"4db3f5ea-2c99-4d69-8759-ada33304c2e6" ,
+  "notes":"This is my First test" ,
+  "TestProcessId":"66b157a1-9d8e-4773-b69d-6375258f50ef" ,
   "InitialEnvironment":"TGH_DEV_ENV",
   "atomName":"TGH_DEV_ATOM",
   "PromotionEnvironment":"TGH_QA_ENV" 
