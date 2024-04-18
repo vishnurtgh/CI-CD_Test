@@ -1,10 +1,10 @@
 {
-  "processNames": "CICDTEST",
+  "componentIds":"394f4e88-cddf-4cd2-a386-f1c5049d6e57",
   "componentType":"process" ,
-  "packageVersion": 7.0,
-  "notes":"This is a test" ,
-  "TestProcessName":"CICDTEST" ,
-  "InitialEnvironment":"Vishnu-Env",
-  "atomName":"Vishnu-LocalAtom",
-  "PromotionEnvironment":"Ashu-Prod" 
+  "packageVersion": 1.0,
+  "notes":"This is my first test" ,
+  "TestProcessId":"4db3f5ea-2c99-4d69-8759-ada33304c2e6" ,
+  "InitialEnvironment":"TGH_DEV_ENV",
+  "atomName":"TGH_DEV_ATOM",
+  "PromotionEnvironment":"TGH_QA_ENV" 
 }
