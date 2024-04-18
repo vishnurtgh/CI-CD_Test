@@ -1,7 +1,7 @@
 {
   "componentIds":"c20bf255-14e4-41d3-9671-01f80f4e5c57",
   "componentType":"process" ,
-  "packageVersion": 1.0,
+  "packageVersion": 2.0,
   "notes":"This is my First test" ,
   "TestProcessId":"66b157a1-9d8e-4773-b69d-6375258f50ef" ,
   "InitialEnvironment":"TGH_DEV_ENV",
